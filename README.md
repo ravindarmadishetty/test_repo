@@ -1,8 +1,6 @@
 # get the sources
 git clone https://github.com/ravindarmadishetty/test_repo.git
-
 cd test_repo
-
 # optionally, reinitialize git
 rm -rf .git
 git init
