@@ -1,6 +1,6 @@
 {
   "name": "heroku-docker-r-shiny-app",
-  "stack": "container",
+  "stack": "running",
   "description": "This is an example Shiny application, which uses heroku-docker-r for Heroku.",
   "keywords": [
     "r",
