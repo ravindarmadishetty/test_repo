@@ -1,12 +1,12 @@
 {
-  "name": "heroku-docker-r-shiny-app",
+  "name": "test_repo",
   "stack": "container",
   "description": "This is an example Shiny application, which uses heroku-docker-r for Heroku.",
   "keywords": [
     "r",
     "shiny"
   ],
-  "repository": "https://github.com/ravindarmadishetty/test_repo-r-shiny-app",
-  "logo": "https://github.com/ravindarmadishetty/test_repo-r-shiny-app/raw/master/logo.png",
+  "repository": "https://github.com/ravindarmadishetty/test_repo",
+  "logo": "https://github.com/ravindarmadishetty/test_repo/raw/master/logo.png",
   "success_url": "/"
 }
