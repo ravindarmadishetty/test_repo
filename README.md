@@ -1,5 +1,6 @@
 # get the sources
 git clone https://github.com/ravindarmadishetty/test_repo.git
+
 cd heroku-docker-r-shiny-app
 
 # optionally, reinitialize git
